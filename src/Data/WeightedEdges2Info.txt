@@ -1,0 +1,27 @@
+The number of vertices is 7
+0 (0): (0, 1, 5.0)(0, 5, 5.0)
+1 (1): (1, 0, 5.0)(1, 2, 10.0)(1, 5, 2.0)(1, 6, 7.0)
+2 (2): (2, 1, 10.0)(2, 3, 8.0)(2, 4, 10.0)(2, 6, 7.0)
+3 (3): (3, 2, 8.0)(3, 4, 8.0)
+4 (4): (4, 2, 10.0)(4, 3, 8.0)(4, 5, 2.0)(4, 6, 7.0)
+5 (5): (5, 0, 5.0)(5, 1, 2.0)(5, 4, 2.0)(5, 6, 7.0)
+6 (6): (6, 1, 7.0)(6, 2, 7.0)(6, 4, 7.0)(6, 5, 7.0)
+
+Weighted edges comprising the Kruskal MST:
+(1, 5), (4, 5), (0, 1), (1, 6), (2, 6), (2, 3)
+
+Cities comprising the Kruskal MST:
+(San Francisco, Chicago), (Kansas City, Chicago), (Seattle, San Francisco), (San Francisco, Boston), (Los Angeles, Boston), (Los Angeles, Denver)
+
+Total weight of Kruskal MST is 31.0
+
+The graph is connected.
+
+All shortest paths from Boston with costs are:
+A path from Boston to Seattle: Boston, San Francisco, Seattle (cost: 12.0)
+A path from Boston to San Francisco: Boston, San Francisco (cost: 7.0)
+A path from Boston to Los Angeles: Boston, Los Angeles (cost: 7.0)
+A path from Boston to Denver: Boston, Los Angeles, Denver (cost: 15.0)
+A path from Boston to Kansas City: Boston, Kansas City (cost: 7.0)
+A path from Boston to Chicago: Boston, Chicago (cost: 7.0)
+A path from Boston to Boston: Boston (cost: 0.0)

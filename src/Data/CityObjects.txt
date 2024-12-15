@@ -1,0 +1,15 @@
+0, Seattle, Washington, 733919, 83.78
+1, San Francisco, California, 815201, 46.87
+2, Los Angeles, California, 3849000, 502
+3, Denver, Colorado, 711463, 154.7
+4, Kansas City, Kansas, 508394, 319
+5, Chicago, Illinois, 2697000, 231.7
+6, Boston, Massachusetts, 654776, 89.63
+7, New York, New York, 8468000, 302.6
+8, Atlanta, Georgia, 496461, 136.3
+9, Miami, Florida, 439890, 55.25
+10, Dallas, Texas, 1288000, 385.9
+11, Houston, Texas, 2288000, 665
+12, Kuna, Idaho, 26673, 19.88
+13, Phoenix, Arizona, 1625000, 517
+14, Cincinnati, Ohio, 308935, 79.64
